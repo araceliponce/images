@@ -1,0 +1,572 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="413" height="173" viewBox="0 0 413 173">
+  <rect width="413" height="173" fill="#ffffff" rx="6" ry="6"/>
+  <text x="46" y="30" fill="#24292f" font-size="10" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">Dec</text>
+  <text x="111" y="30" fill="#24292f" font-size="10" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">Jan</text>
+  <text x="163" y="30" fill="#24292f" font-size="10" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">Feb</text>
+  <text x="215" y="30" fill="#24292f" font-size="10" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">Mar</text>
+  <text x="280" y="30" fill="#24292f" font-size="10" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">Apr</text>
+  <text x="332" y="30" fill="#24292f" font-size="10" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">May</text>
+  <text x="40" y="60" text-anchor="end" fill="#24292f" font-size="9" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">Mon</text>
+  <text x="40" y="86" text-anchor="end" fill="#24292f" font-size="9" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">Wed</text>
+  <text x="40" y="112" text-anchor="end" fill="#24292f" font-size="9" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">Fri</text>
+  <rect x="46" y="88" width="11" height="11" rx="2" ry="2" fill="#bbddf6" data-date="2025-12-04" data-count="3"><title>3 contributions on Dec 4
+araceliponce: 0
+araceliponce-es: 3</title></rect>
+  <rect x="46" y="101" width="11" height="11" rx="2" ry="2" fill="#bbddf6" data-date="2025-12-05" data-count="6"><title>6 contributions on Dec 5
+araceliponce: 0
+araceliponce-es: 6</title></rect>
+  <rect x="46" y="114" width="11" height="11" rx="2" ry="2" fill="#ebedf0" data-date="2025-12-06" data-count="0"><title>0 contributions on Dec 6
+araceliponce: 0
+araceliponce-es: 0</title></rect>
+  <rect x="59" y="36" width="11" height="11" rx="2" ry="2" fill="#ebedf0" data-date="2025-12-07" data-count="0"><title>0 contributions on Dec 7
+araceliponce: 0
+araceliponce-es: 0</title></rect>
+  <rect x="59" y="49" width="11" height="11" rx="2" ry="2" fill="#ebedf0" data-date="2025-12-08" data-count="0"><title>0 contributions on Dec 8
+araceliponce: 0
+araceliponce-es: 0</title></rect>
+  <rect x="59" y="62" width="11" height="11" rx="2" ry="2" fill="#bbddf6" data-date="2025-12-09" data-count="4"><title>4 contributions on Dec 9
+araceliponce: 0
+araceliponce-es: 4</title></rect>
+  <rect x="59" y="75" width="11" height="11" rx="2" ry="2" fill="#bbddf6" data-date="2025-12-10" data-count="6"><title>6 contributions on Dec 10
+araceliponce: 0
+araceliponce-es: 6</title></rect>
+  <rect x="59" y="88" width="11" height="11" rx="2" ry="2" fill="#61b0eb" data-date="2025-12-11" data-count="7"><title>7 contributions on Dec 11
+araceliponce: 0
+araceliponce-es: 7</title></rect>
+  <rect x="59" y="101" width="11" height="11" rx="2" ry="2" fill="#61b0eb" data-date="2025-12-12" data-count="8"><title>8 contributions on Dec 12
+araceliponce: 0
+araceliponce-es: 8</title></rect>
+  <rect x="59" y="114" width="11" height="11" rx="2" ry="2" fill="#ebedf0" data-date="2025-12-13" data-count="0"><title>0 contributions on Dec 13
+araceliponce: 0
+araceliponce-es: 0</title></rect>
+  <rect x="72" y="36" width="11" height="11" rx="2" ry="2" fill="#d9f7ba" data-date="2025-12-14" data-count="1"><title>1 contributions on Dec 14
+araceliponce: 1
+araceliponce-es: 0</title></rect>
+  <rect x="72" y="49" width="11" height="11" rx="2" ry="2" fill="#61b0eb" data-date="2025-12-15" data-count="8"><title>8 contributions on Dec 15
+araceliponce: 0
+araceliponce-es: 8</title></rect>
+  <rect x="72" y="62" width="11" height="11" rx="2" ry="2" fill="#115588" data-date="2025-12-16" data-count="26"><title>26 contributions on Dec 16
+araceliponce: 0
+araceliponce-es: 26</title></rect>
+  <rect x="72" y="75" width="11" height="11" rx="2" ry="2" fill="#bbddf6" data-date="2025-12-17" data-count="3"><title>3 contributions on Dec 17
+araceliponce: 0
+araceliponce-es: 3</title></rect>
+  <rect x="72" y="88" width="11" height="11" rx="2" ry="2" fill="#61b0eb" data-date="2025-12-18" data-count="10"><title>10 contributions on Dec 18
+araceliponce: 0
+araceliponce-es: 10</title></rect>
+  <rect x="72" y="101" width="11" height="11" rx="2" ry="2" fill="#61b0eb" data-date="2025-12-19" data-count="9"><title>9 contributions on Dec 19
+araceliponce: 0
+araceliponce-es: 9</title></rect>
+  <rect x="72" y="114" width="11" height="11" rx="2" ry="2" fill="#ebedf0" data-date="2025-12-20" data-count="0"><title>0 contributions on Dec 20
+araceliponce: 0
+araceliponce-es: 0</title></rect>
+  <rect x="85" y="36" width="11" height="11" rx="2" ry="2" fill="#ebedf0" data-date="2025-12-21" data-count="0"><title>0 contributions on Dec 21
+araceliponce: 0
+araceliponce-es: 0</title></rect>
+  <rect x="85" y="49" width="11" height="11" rx="2" ry="2" fill="#ebedf0" data-date="2025-12-22" data-count="0"><title>0 contributions on Dec 22
+araceliponce: 0
+araceliponce-es: 0</title></rect>
+  <rect x="85" y="62" width="11" height="11" rx="2" ry="2" fill="#ebedf0" data-date="2025-12-23" data-count="0"><title>0 contributions on Dec 23
+araceliponce: 0
+araceliponce-es: 0</title></rect>
+  <rect x="85" y="75" width="11" height="11" rx="2" ry="2" fill="#ebedf0" data-date="2025-12-24" data-count="0"><title>0 contributions on Dec 24
+araceliponce: 0
+araceliponce-es: 0</title></rect>
+  <rect x="85" y="88" width="11" height="11" rx="2" ry="2" fill="#ebedf0" data-date="2025-12-25" data-count="0"><title>0 contributions on Dec 25
+araceliponce: 0
+araceliponce-es: 0</title></rect>
+  <rect x="85" y="101" width="11" height="11" rx="2" ry="2" fill="#ebedf0" data-date="2025-12-26" data-count="0"><title>0 contributions on Dec 26
+araceliponce: 0
+araceliponce-es: 0</title></rect>
+  <rect x="85" y="114" width="11" height="11" rx="2" ry="2" fill="#ebedf0" data-date="2025-12-27" data-count="0"><title>0 contributions on Dec 27
+araceliponce: 0
+araceliponce-es: 0</title></rect>
+  <rect x="98" y="36" width="11" height="11" rx="2" ry="2" fill="#ebedf0" data-date="2025-12-28" data-count="0"><title>0 contributions on Dec 28
+araceliponce: 0
+araceliponce-es: 0</title></rect>
+  <rect x="98" y="49" width="11" height="11" rx="2" ry="2" fill="#ebedf0" data-date="2025-12-29" data-count="0"><title>0 contributions on Dec 29
+araceliponce: 0
+araceliponce-es: 0</title></rect>
+  <rect x="98" y="62" width="11" height="11" rx="2" ry="2" fill="#ebedf0" data-date="2025-12-30" data-count="0"><title>0 contributions on Dec 30
+araceliponce: 0
+araceliponce-es: 0</title></rect>
+  <rect x="98" y="75" width="11" height="11" rx="2" ry="2" fill="#ebedf0" data-date="2025-12-31" data-count="0"><title>0 contributions on Dec 31
+araceliponce: 0
+araceliponce-es: 0</title></rect>
+  <rect x="98" y="88" width="11" height="11" rx="2" ry="2" fill="#ebedf0" data-date="2026-01-01" data-count="0"><title>0 contributions on Jan 1
+araceliponce: 0
+araceliponce-es: 0</title></rect>
+  <rect x="98" y="101" width="11" height="11" rx="2" ry="2" fill="#ebedf0" data-date="2026-01-02" data-count="0"><title>0 contributions on Jan 2
+araceliponce: 0
+araceliponce-es: 0</title></rect>
+  <rect x="98" y="114" width="11" height="11" rx="2" ry="2" fill="#ebedf0" data-date="2026-01-03" data-count="0"><title>0 contributions on Jan 3
+araceliponce: 0
+araceliponce-es: 0</title></rect>
+  <rect x="111" y="36" width="11" height="11" rx="2" ry="2" fill="#ebedf0" data-date="2026-01-04" data-count="0"><title>0 contributions on Jan 4
+araceliponce: 0
+araceliponce-es: 0</title></rect>
+  <rect x="111" y="49" width="11" height="11" rx="2" ry="2" fill="#ebedf0" data-date="2026-01-05" data-count="0"><title>0 contributions on Jan 5
+araceliponce: 0
+araceliponce-es: 0</title></rect>
+  <rect x="111" y="62" width="11" height="11" rx="2" ry="2" fill="#ebedf0" data-date="2026-01-06" data-count="0"><title>0 contributions on Jan 6
+araceliponce: 0
+araceliponce-es: 0</title></rect>
+  <rect x="111" y="75" width="11" height="11" rx="2" ry="2" fill="#ebedf0" data-date="2026-01-07" data-count="0"><title>0 contributions on Jan 7
+araceliponce: 0
+araceliponce-es: 0</title></rect>
+  <rect x="111" y="88" width="11" height="11" rx="2" ry="2" fill="#61b0eb" data-date="2026-01-08" data-count="7"><title>7 contributions on Jan 8
+araceliponce: 0
+araceliponce-es: 7</title></rect>
+  <rect x="111" y="101" width="11" height="11" rx="2" ry="2" fill="#bbddf6" data-date="2026-01-09" data-count="6"><title>6 contributions on Jan 9
+araceliponce: 0
+araceliponce-es: 6</title></rect>
+  <rect x="111" y="114" width="11" height="11" rx="2" ry="2" fill="#ebedf0" data-date="2026-01-10" data-count="0"><title>0 contributions on Jan 10
+araceliponce: 0
+araceliponce-es: 0</title></rect>
+  <rect x="124" y="36" width="11" height="11" rx="2" ry="2" fill="#ebedf0" data-date="2026-01-11" data-count="0"><title>0 contributions on Jan 11
+araceliponce: 0
+araceliponce-es: 0</title></rect>
+  <rect x="124" y="49" width="11" height="11" rx="2" ry="2" fill="#bbddf6" data-date="2026-01-12" data-count="1"><title>1 contributions on Jan 12
+araceliponce: 0
+araceliponce-es: 1</title></rect>
+  <rect x="124" y="62" width="11" height="11" rx="2" ry="2" fill="#bbddf6" data-date="2026-01-13" data-count="3"><title>3 contributions on Jan 13
+araceliponce: 0
+araceliponce-es: 3</title></rect>
+  <rect x="124" y="75" width="11" height="11" rx="2" ry="2" fill="#bbddf6" data-date="2026-01-14" data-count="3"><title>3 contributions on Jan 14
+araceliponce: 0
+araceliponce-es: 3</title></rect>
+  <rect x="124" y="88" width="11" height="11" rx="2" ry="2" fill="#bbddf6" data-date="2026-01-15" data-count="6"><title>6 contributions on Jan 15
+araceliponce: 0
+araceliponce-es: 6</title></rect>
+  <rect x="124" y="101" width="11" height="11" rx="2" ry="2" fill="#bbddf6" data-date="2026-01-16" data-count="6"><title>6 contributions on Jan 16
+araceliponce: 0
+araceliponce-es: 6</title></rect>
+  <rect x="124" y="114" width="11" height="11" rx="2" ry="2" fill="#ebedf0" data-date="2026-01-17" data-count="0"><title>0 contributions on Jan 17
+araceliponce: 0
+araceliponce-es: 0</title></rect>
+  <rect x="137" y="36" width="11" height="11" rx="2" ry="2" fill="#ebedf0" data-date="2026-01-18" data-count="0"><title>0 contributions on Jan 18
+araceliponce: 0
+araceliponce-es: 0</title></rect>
+  <rect x="137" y="49" width="11" height="11" rx="2" ry="2" fill="#bbddf6" data-date="2026-01-19" data-count="3"><title>3 contributions on Jan 19
+araceliponce: 0
+araceliponce-es: 3</title></rect>
+  <rect x="137" y="62" width="11" height="11" rx="2" ry="2" fill="#bbddf6" data-date="2026-01-20" data-count="6"><title>6 contributions on Jan 20
+araceliponce: 0
+araceliponce-es: 6</title></rect>
+  <rect x="137" y="75" width="11" height="11" rx="2" ry="2" fill="#bbddf6" data-date="2026-01-21" data-count="6"><title>6 contributions on Jan 21
+araceliponce: 0
+araceliponce-es: 6</title></rect>
+  <rect x="137" y="88" width="11" height="11" rx="2" ry="2" fill="#ebedf0" data-date="2026-01-22" data-count="0"><title>0 contributions on Jan 22
+araceliponce: 0
+araceliponce-es: 0</title></rect>
+  <rect x="137" y="101" width="11" height="11" rx="2" ry="2" fill="#bbddf6" data-date="2026-01-23" data-count="6"><title>6 contributions on Jan 23
+araceliponce: 0
+araceliponce-es: 6</title></rect>
+  <rect x="137" y="114" width="11" height="11" rx="2" ry="2" fill="#ebedf0" data-date="2026-01-24" data-count="0"><title>0 contributions on Jan 24
+araceliponce: 0
+araceliponce-es: 0</title></rect>
+  <rect x="150" y="36" width="11" height="11" rx="2" ry="2" fill="#ebedf0" data-date="2026-01-25" data-count="0"><title>0 contributions on Jan 25
+araceliponce: 0
+araceliponce-es: 0</title></rect>
+  <rect x="150" y="49" width="11" height="11" rx="2" ry="2" fill="#bbddf6" data-date="2026-01-26" data-count="3"><title>3 contributions on Jan 26
+araceliponce: 0
+araceliponce-es: 3</title></rect>
+  <rect x="150" y="62" width="11" height="11" rx="2" ry="2" fill="#bbddf6" data-date="2026-01-27" data-count="3"><title>3 contributions on Jan 27
+araceliponce: 0
+araceliponce-es: 3</title></rect>
+  <rect x="150" y="75" width="11" height="11" rx="2" ry="2" fill="#bbddf6" data-date="2026-01-28" data-count="4"><title>4 contributions on Jan 28
+araceliponce: 0
+araceliponce-es: 4</title></rect>
+  <rect x="150" y="88" width="11" height="11" rx="2" ry="2" fill="#bbddf6" data-date="2026-01-29" data-count="6"><title>6 contributions on Jan 29
+araceliponce: 0
+araceliponce-es: 6</title></rect>
+  <rect x="150" y="101" width="11" height="11" rx="2" ry="2" fill="#bbddf6" data-date="2026-01-30" data-count="2"><title>2 contributions on Jan 30
+araceliponce: 0
+araceliponce-es: 2</title></rect>
+  <rect x="150" y="114" width="11" height="11" rx="2" ry="2" fill="#ebedf0" data-date="2026-01-31" data-count="0"><title>0 contributions on Jan 31
+araceliponce: 0
+araceliponce-es: 0</title></rect>
+  <rect x="163" y="36" width="11" height="11" rx="2" ry="2" fill="#ebedf0" data-date="2026-02-01" data-count="0"><title>0 contributions on Feb 1
+araceliponce: 0
+araceliponce-es: 0</title></rect>
+  <rect x="163" y="49" width="11" height="11" rx="2" ry="2" fill="#bbddf6" data-date="2026-02-02" data-count="1"><title>1 contributions on Feb 2
+araceliponce: 0
+araceliponce-es: 1</title></rect>
+  <rect x="163" y="62" width="11" height="11" rx="2" ry="2" fill="#ebedf0" data-date="2026-02-03" data-count="0"><title>0 contributions on Feb 3
+araceliponce: 0
+araceliponce-es: 0</title></rect>
+  <rect x="163" y="75" width="11" height="11" rx="2" ry="2" fill="#bbddf6" data-date="2026-02-04" data-count="1"><title>1 contributions on Feb 4
+araceliponce: 0
+araceliponce-es: 1</title></rect>
+  <rect x="163" y="88" width="11" height="11" rx="2" ry="2" fill="#bbddf6" data-date="2026-02-05" data-count="3"><title>3 contributions on Feb 5
+araceliponce: 0
+araceliponce-es: 3</title></rect>
+  <rect x="163" y="101" width="11" height="11" rx="2" ry="2" fill="#bbddf6" data-date="2026-02-06" data-count="3"><title>3 contributions on Feb 6
+araceliponce: 0
+araceliponce-es: 3</title></rect>
+  <rect x="163" y="114" width="11" height="11" rx="2" ry="2" fill="#ebedf0" data-date="2026-02-07" data-count="0"><title>0 contributions on Feb 7
+araceliponce: 0
+araceliponce-es: 0</title></rect>
+  <rect x="176" y="36" width="11" height="11" rx="2" ry="2" fill="#ebedf0" data-date="2026-02-08" data-count="0"><title>0 contributions on Feb 8
+araceliponce: 0
+araceliponce-es: 0</title></rect>
+  <rect x="176" y="49" width="11" height="11" rx="2" ry="2" fill="#61b0eb" data-date="2026-02-09" data-count="12"><title>12 contributions on Feb 9
+araceliponce: 0
+araceliponce-es: 12</title></rect>
+  <rect x="176" y="62" width="11" height="11" rx="2" ry="2" fill="#bbddf6" data-date="2026-02-10" data-count="4"><title>4 contributions on Feb 10
+araceliponce: 1
+araceliponce-es: 3</title></rect>
+  <rect x="176" y="75" width="11" height="11" rx="2" ry="2" fill="#bbddf6" data-date="2026-02-11" data-count="2"><title>2 contributions on Feb 11
+araceliponce: 0
+araceliponce-es: 2</title></rect>
+  <rect x="176" y="88" width="11" height="11" rx="2" ry="2" fill="#61b0eb" data-date="2026-02-12" data-count="8"><title>8 contributions on Feb 12
+araceliponce: 0
+araceliponce-es: 8</title></rect>
+  <rect x="176" y="101" width="11" height="11" rx="2" ry="2" fill="#ebedf0" data-date="2026-02-13" data-count="0"><title>0 contributions on Feb 13
+araceliponce: 0
+araceliponce-es: 0</title></rect>
+  <rect x="176" y="114" width="11" height="11" rx="2" ry="2" fill="#ebedf0" data-date="2026-02-14" data-count="0"><title>0 contributions on Feb 14
+araceliponce: 0
+araceliponce-es: 0</title></rect>
+  <rect x="189" y="36" width="11" height="11" rx="2" ry="2" fill="#ebedf0" data-date="2026-02-15" data-count="0"><title>0 contributions on Feb 15
+araceliponce: 0
+araceliponce-es: 0</title></rect>
+  <rect x="189" y="49" width="11" height="11" rx="2" ry="2" fill="#ebedf0" data-date="2026-02-16" data-count="0"><title>0 contributions on Feb 16
+araceliponce: 0
+araceliponce-es: 0</title></rect>
+  <rect x="189" y="62" width="11" height="11" rx="2" ry="2" fill="#ebedf0" data-date="2026-02-17" data-count="0"><title>0 contributions on Feb 17
+araceliponce: 0
+araceliponce-es: 0</title></rect>
+  <rect x="189" y="75" width="11" height="11" rx="2" ry="2" fill="#ebedf0" data-date="2026-02-18" data-count="0"><title>0 contributions on Feb 18
+araceliponce: 0
+araceliponce-es: 0</title></rect>
+  <rect x="189" y="88" width="11" height="11" rx="2" ry="2" fill="#bbddf6" data-date="2026-02-19" data-count="3"><title>3 contributions on Feb 19
+araceliponce: 0
+araceliponce-es: 3</title></rect>
+  <rect x="189" y="101" width="11" height="11" rx="2" ry="2" fill="#bbddf6" data-date="2026-02-20" data-count="3"><title>3 contributions on Feb 20
+araceliponce: 0
+araceliponce-es: 3</title></rect>
+  <rect x="189" y="114" width="11" height="11" rx="2" ry="2" fill="#ebedf0" data-date="2026-02-21" data-count="0"><title>0 contributions on Feb 21
+araceliponce: 0
+araceliponce-es: 0</title></rect>
+  <rect x="202" y="36" width="11" height="11" rx="2" ry="2" fill="#ebedf0" data-date="2026-02-22" data-count="0"><title>0 contributions on Feb 22
+araceliponce: 0
+araceliponce-es: 0</title></rect>
+  <rect x="202" y="49" width="11" height="11" rx="2" ry="2" fill="#ebedf0" data-date="2026-02-23" data-count="0"><title>0 contributions on Feb 23
+araceliponce: 0
+araceliponce-es: 0</title></rect>
+  <rect x="202" y="62" width="11" height="11" rx="2" ry="2" fill="#bbddf6" data-date="2026-02-24" data-count="6"><title>6 contributions on Feb 24
+araceliponce: 0
+araceliponce-es: 6</title></rect>
+  <rect x="202" y="75" width="11" height="11" rx="2" ry="2" fill="#ebedf0" data-date="2026-02-25" data-count="0"><title>0 contributions on Feb 25
+araceliponce: 0
+araceliponce-es: 0</title></rect>
+  <rect x="202" y="88" width="11" height="11" rx="2" ry="2" fill="#ebedf0" data-date="2026-02-26" data-count="0"><title>0 contributions on Feb 26
+araceliponce: 0
+araceliponce-es: 0</title></rect>
+  <rect x="202" y="101" width="11" height="11" rx="2" ry="2" fill="#61b0eb" data-date="2026-02-27" data-count="12"><title>12 contributions on Feb 27
+araceliponce: 0
+araceliponce-es: 12</title></rect>
+  <rect x="202" y="114" width="11" height="11" rx="2" ry="2" fill="#ebedf0" data-date="2026-02-28" data-count="0"><title>0 contributions on Feb 28
+araceliponce: 0
+araceliponce-es: 0</title></rect>
+  <rect x="215" y="36" width="11" height="11" rx="2" ry="2" fill="#ebedf0" data-date="2026-03-01" data-count="0"><title>0 contributions on Mar 1
+araceliponce: 0
+araceliponce-es: 0</title></rect>
+  <rect x="215" y="49" width="11" height="11" rx="2" ry="2" fill="#bbddf6" data-date="2026-03-02" data-count="3"><title>3 contributions on Mar 2
+araceliponce: 0
+araceliponce-es: 3</title></rect>
+  <rect x="215" y="62" width="11" height="11" rx="2" ry="2" fill="#ebedf0" data-date="2026-03-03" data-count="0"><title>0 contributions on Mar 3
+araceliponce: 0
+araceliponce-es: 0</title></rect>
+  <rect x="215" y="75" width="11" height="11" rx="2" ry="2" fill="#bbddf6" data-date="2026-03-04" data-count="6"><title>6 contributions on Mar 4
+araceliponce: 0
+araceliponce-es: 6</title></rect>
+  <rect x="215" y="88" width="11" height="11" rx="2" ry="2" fill="#61b0eb" data-date="2026-03-05" data-count="14"><title>14 contributions on Mar 5
+araceliponce: 3
+araceliponce-es: 11</title></rect>
+  <rect x="215" y="101" width="11" height="11" rx="2" ry="2" fill="#ebedf0" data-date="2026-03-06" data-count="0"><title>0 contributions on Mar 6
+araceliponce: 0
+araceliponce-es: 0</title></rect>
+  <rect x="215" y="114" width="11" height="11" rx="2" ry="2" fill="#ebedf0" data-date="2026-03-07" data-count="0"><title>0 contributions on Mar 7
+araceliponce: 0
+araceliponce-es: 0</title></rect>
+  <rect x="228" y="36" width="11" height="11" rx="2" ry="2" fill="#ebedf0" data-date="2026-03-08" data-count="0"><title>0 contributions on Mar 8
+araceliponce: 0
+araceliponce-es: 0</title></rect>
+  <rect x="228" y="49" width="11" height="11" rx="2" ry="2" fill="#bbddf6" data-date="2026-03-09" data-count="2"><title>2 contributions on Mar 9
+araceliponce: 0
+araceliponce-es: 2</title></rect>
+  <rect x="228" y="62" width="11" height="11" rx="2" ry="2" fill="#bbddf6" data-date="2026-03-10" data-count="3"><title>3 contributions on Mar 10
+araceliponce: 0
+araceliponce-es: 3</title></rect>
+  <rect x="228" y="75" width="11" height="11" rx="2" ry="2" fill="#bbddf6" data-date="2026-03-11" data-count="4"><title>4 contributions on Mar 11
+araceliponce: 0
+araceliponce-es: 4</title></rect>
+  <rect x="228" y="88" width="11" height="11" rx="2" ry="2" fill="#ebedf0" data-date="2026-03-12" data-count="0"><title>0 contributions on Mar 12
+araceliponce: 0
+araceliponce-es: 0</title></rect>
+  <rect x="228" y="101" width="11" height="11" rx="2" ry="2" fill="#61b0eb" data-date="2026-03-13" data-count="10"><title>10 contributions on Mar 13
+araceliponce: 0
+araceliponce-es: 10</title></rect>
+  <rect x="228" y="114" width="11" height="11" rx="2" ry="2" fill="#ebedf0" data-date="2026-03-14" data-count="0"><title>0 contributions on Mar 14
+araceliponce: 0
+araceliponce-es: 0</title></rect>
+  <rect x="241" y="36" width="11" height="11" rx="2" ry="2" fill="#d9f7ba" data-date="2026-03-15" data-count="1"><title>1 contributions on Mar 15
+araceliponce: 1
+araceliponce-es: 0</title></rect>
+  <rect x="241" y="49" width="11" height="11" rx="2" ry="2" fill="#61b0eb" data-date="2026-03-16" data-count="7"><title>7 contributions on Mar 16
+araceliponce: 0
+araceliponce-es: 7</title></rect>
+  <rect x="241" y="62" width="11" height="11" rx="2" ry="2" fill="#4d8a0f" data-date="2026-03-17" data-count="24"><title>24 contributions on Mar 17
+araceliponce: 18
+araceliponce-es: 6</title></rect>
+  <rect x="241" y="75" width="11" height="11" rx="2" ry="2" fill="#a6ed5e" data-date="2026-03-18" data-count="13"><title>13 contributions on Mar 18
+araceliponce: 7
+araceliponce-es: 6</title></rect>
+  <rect x="241" y="88" width="11" height="11" rx="2" ry="2" fill="#ebedf0" data-date="2026-03-19" data-count="0"><title>0 contributions on Mar 19
+araceliponce: 0
+araceliponce-es: 0</title></rect>
+  <rect x="241" y="101" width="11" height="11" rx="2" ry="2" fill="#ebedf0" data-date="2026-03-20" data-count="0"><title>0 contributions on Mar 20
+araceliponce: 0
+araceliponce-es: 0</title></rect>
+  <rect x="241" y="114" width="11" height="11" rx="2" ry="2" fill="#ebedf0" data-date="2026-03-21" data-count="0"><title>0 contributions on Mar 21
+araceliponce: 0
+araceliponce-es: 0</title></rect>
+  <rect x="254" y="36" width="11" height="11" rx="2" ry="2" fill="#ebedf0" data-date="2026-03-22" data-count="0"><title>0 contributions on Mar 22
+araceliponce: 0
+araceliponce-es: 0</title></rect>
+  <rect x="254" y="49" width="11" height="11" rx="2" ry="2" fill="#bbddf6" data-date="2026-03-23" data-count="3"><title>3 contributions on Mar 23
+araceliponce: 0
+araceliponce-es: 3</title></rect>
+  <rect x="254" y="62" width="11" height="11" rx="2" ry="2" fill="#bbddf6" data-date="2026-03-24" data-count="3"><title>3 contributions on Mar 24
+araceliponce: 0
+araceliponce-es: 3</title></rect>
+  <rect x="254" y="75" width="11" height="11" rx="2" ry="2" fill="#ebedf0" data-date="2026-03-25" data-count="0"><title>0 contributions on Mar 25
+araceliponce: 0
+araceliponce-es: 0</title></rect>
+  <rect x="254" y="88" width="11" height="11" rx="2" ry="2" fill="#d9f7ba" data-date="2026-03-26" data-count="3"><title>3 contributions on Mar 26
+araceliponce: 2
+araceliponce-es: 1</title></rect>
+  <rect x="254" y="101" width="11" height="11" rx="2" ry="2" fill="#bbddf6" data-date="2026-03-27" data-count="4"><title>4 contributions on Mar 27
+araceliponce: 0
+araceliponce-es: 4</title></rect>
+  <rect x="254" y="114" width="11" height="11" rx="2" ry="2" fill="#ebedf0" data-date="2026-03-28" data-count="0"><title>0 contributions on Mar 28
+araceliponce: 0
+araceliponce-es: 0</title></rect>
+  <rect x="267" y="36" width="11" height="11" rx="2" ry="2" fill="#ebedf0" data-date="2026-03-29" data-count="0"><title>0 contributions on Mar 29
+araceliponce: 0
+araceliponce-es: 0</title></rect>
+  <rect x="267" y="49" width="11" height="11" rx="2" ry="2" fill="#bbddf6" data-date="2026-03-30" data-count="6"><title>6 contributions on Mar 30
+araceliponce: 0
+araceliponce-es: 6</title></rect>
+  <rect x="267" y="62" width="11" height="11" rx="2" ry="2" fill="#bbddf6" data-date="2026-03-31" data-count="1"><title>1 contributions on Mar 31
+araceliponce: 0
+araceliponce-es: 1</title></rect>
+  <rect x="267" y="75" width="11" height="11" rx="2" ry="2" fill="#ebedf0" data-date="2026-04-01" data-count="0"><title>0 contributions on Apr 1
+araceliponce: 0
+araceliponce-es: 0</title></rect>
+  <rect x="267" y="88" width="11" height="11" rx="2" ry="2" fill="#ebedf0" data-date="2026-04-02" data-count="0"><title>0 contributions on Apr 2
+araceliponce: 0
+araceliponce-es: 0</title></rect>
+  <rect x="267" y="101" width="11" height="11" rx="2" ry="2" fill="#ebedf0" data-date="2026-04-03" data-count="0"><title>0 contributions on Apr 3
+araceliponce: 0
+araceliponce-es: 0</title></rect>
+  <rect x="267" y="114" width="11" height="11" rx="2" ry="2" fill="#ebedf0" data-date="2026-04-04" data-count="0"><title>0 contributions on Apr 4
+araceliponce: 0
+araceliponce-es: 0</title></rect>
+  <rect x="280" y="36" width="11" height="11" rx="2" ry="2" fill="#bbddf6" data-date="2026-04-05" data-count="1"><title>1 contributions on Apr 5
+araceliponce: 0
+araceliponce-es: 1</title></rect>
+  <rect x="280" y="49" width="11" height="11" rx="2" ry="2" fill="#bbddf6" data-date="2026-04-06" data-count="1"><title>1 contributions on Apr 6
+araceliponce: 0
+araceliponce-es: 1</title></rect>
+  <rect x="280" y="62" width="11" height="11" rx="2" ry="2" fill="#d9f7ba" data-date="2026-04-07" data-count="2"><title>2 contributions on Apr 7
+araceliponce: 1
+araceliponce-es: 1</title></rect>
+  <rect x="280" y="75" width="11" height="11" rx="2" ry="2" fill="#bbddf6" data-date="2026-04-08" data-count="3"><title>3 contributions on Apr 8
+araceliponce: 0
+araceliponce-es: 3</title></rect>
+  <rect x="280" y="88" width="11" height="11" rx="2" ry="2" fill="#61b0eb" data-date="2026-04-09" data-count="8"><title>8 contributions on Apr 9
+araceliponce: 1
+araceliponce-es: 7</title></rect>
+  <rect x="280" y="101" width="11" height="11" rx="2" ry="2" fill="#bbddf6" data-date="2026-04-10" data-count="3"><title>3 contributions on Apr 10
+araceliponce: 0
+araceliponce-es: 3</title></rect>
+  <rect x="280" y="114" width="11" height="11" rx="2" ry="2" fill="#ebedf0" data-date="2026-04-11" data-count="0"><title>0 contributions on Apr 11
+araceliponce: 0
+araceliponce-es: 0</title></rect>
+  <rect x="293" y="36" width="11" height="11" rx="2" ry="2" fill="#ebedf0" data-date="2026-04-12" data-count="0"><title>0 contributions on Apr 12
+araceliponce: 0
+araceliponce-es: 0</title></rect>
+  <rect x="293" y="49" width="11" height="11" rx="2" ry="2" fill="#ebedf0" data-date="2026-04-13" data-count="0"><title>0 contributions on Apr 13
+araceliponce: 0
+araceliponce-es: 0</title></rect>
+  <rect x="293" y="62" width="11" height="11" rx="2" ry="2" fill="#ebedf0" data-date="2026-04-14" data-count="0"><title>0 contributions on Apr 14
+araceliponce: 0
+araceliponce-es: 0</title></rect>
+  <rect x="293" y="75" width="11" height="11" rx="2" ry="2" fill="#bbddf6" data-date="2026-04-15" data-count="1"><title>1 contributions on Apr 15
+araceliponce: 0
+araceliponce-es: 1</title></rect>
+  <rect x="293" y="88" width="11" height="11" rx="2" ry="2" fill="#bbddf6" data-date="2026-04-16" data-count="2"><title>2 contributions on Apr 16
+araceliponce: 0
+araceliponce-es: 2</title></rect>
+  <rect x="293" y="101" width="11" height="11" rx="2" ry="2" fill="#bbddf6" data-date="2026-04-17" data-count="6"><title>6 contributions on Apr 17
+araceliponce: 0
+araceliponce-es: 6</title></rect>
+  <rect x="293" y="114" width="11" height="11" rx="2" ry="2" fill="#ebedf0" data-date="2026-04-18" data-count="0"><title>0 contributions on Apr 18
+araceliponce: 0
+araceliponce-es: 0</title></rect>
+  <rect x="306" y="36" width="11" height="11" rx="2" ry="2" fill="#ebedf0" data-date="2026-04-19" data-count="0"><title>0 contributions on Apr 19
+araceliponce: 0
+araceliponce-es: 0</title></rect>
+  <rect x="306" y="49" width="11" height="11" rx="2" ry="2" fill="#ebedf0" data-date="2026-04-20" data-count="0"><title>0 contributions on Apr 20
+araceliponce: 0
+araceliponce-es: 0</title></rect>
+  <rect x="306" y="62" width="11" height="11" rx="2" ry="2" fill="#ebedf0" data-date="2026-04-21" data-count="0"><title>0 contributions on Apr 21
+araceliponce: 0
+araceliponce-es: 0</title></rect>
+  <rect x="306" y="75" width="11" height="11" rx="2" ry="2" fill="#ebedf0" data-date="2026-04-22" data-count="0"><title>0 contributions on Apr 22
+araceliponce: 0
+araceliponce-es: 0</title></rect>
+  <rect x="306" y="88" width="11" height="11" rx="2" ry="2" fill="#bbddf6" data-date="2026-04-23" data-count="5"><title>5 contributions on Apr 23
+araceliponce: 1
+araceliponce-es: 4</title></rect>
+  <rect x="306" y="101" width="11" height="11" rx="2" ry="2" fill="#bbddf6" data-date="2026-04-24" data-count="4"><title>4 contributions on Apr 24
+araceliponce: 0
+araceliponce-es: 4</title></rect>
+  <rect x="306" y="114" width="11" height="11" rx="2" ry="2" fill="#bbddf6" data-date="2026-04-25" data-count="10"><title>10 contributions on Apr 25
+araceliponce: 4
+araceliponce-es: 6</title></rect>
+  <rect x="319" y="36" width="11" height="11" rx="2" ry="2" fill="#bbddf6" data-date="2026-04-26" data-count="3"><title>3 contributions on Apr 26
+araceliponce: 1
+araceliponce-es: 2</title></rect>
+  <rect x="319" y="49" width="11" height="11" rx="2" ry="2" fill="#ebedf0" data-date="2026-04-27" data-count="0"><title>0 contributions on Apr 27
+araceliponce: 0
+araceliponce-es: 0</title></rect>
+  <rect x="319" y="62" width="11" height="11" rx="2" ry="2" fill="#bbddf6" data-date="2026-04-28" data-count="6"><title>6 contributions on Apr 28
+araceliponce: 0
+araceliponce-es: 6</title></rect>
+  <rect x="319" y="75" width="11" height="11" rx="2" ry="2" fill="#ebedf0" data-date="2026-04-29" data-count="0"><title>0 contributions on Apr 29
+araceliponce: 0
+araceliponce-es: 0</title></rect>
+  <rect x="319" y="88" width="11" height="11" rx="2" ry="2" fill="#61b0eb" data-date="2026-04-30" data-count="7"><title>7 contributions on Apr 30
+araceliponce: 0
+araceliponce-es: 7</title></rect>
+  <rect x="319" y="101" width="11" height="11" rx="2" ry="2" fill="#bbddf6" data-date="2026-05-01" data-count="2"><title>2 contributions on May 1
+araceliponce: 0
+araceliponce-es: 2</title></rect>
+  <rect x="319" y="114" width="11" height="11" rx="2" ry="2" fill="#ebedf0" data-date="2026-05-02" data-count="0"><title>0 contributions on May 2
+araceliponce: 0
+araceliponce-es: 0</title></rect>
+  <rect x="332" y="36" width="11" height="11" rx="2" ry="2" fill="#bbddf6" data-date="2026-05-03" data-count="1"><title>1 contributions on May 3
+araceliponce: 0
+araceliponce-es: 1</title></rect>
+  <rect x="332" y="49" width="11" height="11" rx="2" ry="2" fill="#bbddf6" data-date="2026-05-04" data-count="3"><title>3 contributions on May 4
+araceliponce: 0
+araceliponce-es: 3</title></rect>
+  <rect x="332" y="62" width="11" height="11" rx="2" ry="2" fill="#bbddf6" data-date="2026-05-05" data-count="5"><title>5 contributions on May 5
+araceliponce: 0
+araceliponce-es: 5</title></rect>
+  <rect x="332" y="75" width="11" height="11" rx="2" ry="2" fill="#bbddf6" data-date="2026-05-06" data-count="6"><title>6 contributions on May 6
+araceliponce: 0
+araceliponce-es: 6</title></rect>
+  <rect x="332" y="88" width="11" height="11" rx="2" ry="2" fill="#bbddf6" data-date="2026-05-07" data-count="4"><title>4 contributions on May 7
+araceliponce: 0
+araceliponce-es: 4</title></rect>
+  <rect x="332" y="101" width="11" height="11" rx="2" ry="2" fill="#bbddf6" data-date="2026-05-08" data-count="3"><title>3 contributions on May 8
+araceliponce: 0
+araceliponce-es: 3</title></rect>
+  <rect x="332" y="114" width="11" height="11" rx="2" ry="2" fill="#d9f7ba" data-date="2026-05-09" data-count="3"><title>3 contributions on May 9
+araceliponce: 2
+araceliponce-es: 1</title></rect>
+  <rect x="345" y="36" width="11" height="11" rx="2" ry="2" fill="#ebedf0" data-date="2026-05-10" data-count="0"><title>0 contributions on May 10
+araceliponce: 0
+araceliponce-es: 0</title></rect>
+  <rect x="345" y="49" width="11" height="11" rx="2" ry="2" fill="#bbddf6" data-date="2026-05-11" data-count="4"><title>4 contributions on May 11
+araceliponce: 0
+araceliponce-es: 4</title></rect>
+  <rect x="345" y="62" width="11" height="11" rx="2" ry="2" fill="#ebedf0" data-date="2026-05-12" data-count="0"><title>0 contributions on May 12
+araceliponce: 0
+araceliponce-es: 0</title></rect>
+  <rect x="345" y="75" width="11" height="11" rx="2" ry="2" fill="#61b0eb" data-date="2026-05-13" data-count="9"><title>9 contributions on May 13
+araceliponce: 0
+araceliponce-es: 9</title></rect>
+  <rect x="345" y="88" width="11" height="11" rx="2" ry="2" fill="#bbddf6" data-date="2026-05-14" data-count="1"><title>1 contributions on May 14
+araceliponce: 0
+araceliponce-es: 1</title></rect>
+  <rect x="345" y="101" width="11" height="11" rx="2" ry="2" fill="#61b0eb" data-date="2026-05-15" data-count="12"><title>12 contributions on May 15
+araceliponce: 0
+araceliponce-es: 12</title></rect>
+  <rect x="345" y="114" width="11" height="11" rx="2" ry="2" fill="#bbddf6" data-date="2026-05-16" data-count="1"><title>1 contributions on May 16
+araceliponce: 0
+araceliponce-es: 1</title></rect>
+  <rect x="358" y="36" width="11" height="11" rx="2" ry="2" fill="#d9f7ba" data-date="2026-05-17" data-count="2"><title>2 contributions on May 17
+araceliponce: 1
+araceliponce-es: 1</title></rect>
+  <rect x="358" y="49" width="11" height="11" rx="2" ry="2" fill="#61b0eb" data-date="2026-05-18" data-count="9"><title>9 contributions on May 18
+araceliponce: 0
+araceliponce-es: 9</title></rect>
+  <rect x="358" y="62" width="11" height="11" rx="2" ry="2" fill="#ebedf0" data-date="2026-05-19" data-count="0"><title>0 contributions on May 19
+araceliponce: 0
+araceliponce-es: 0</title></rect>
+  <rect x="358" y="75" width="11" height="11" rx="2" ry="2" fill="#bbddf6" data-date="2026-05-20" data-count="3"><title>3 contributions on May 20
+araceliponce: 0
+araceliponce-es: 3</title></rect>
+  <rect x="358" y="88" width="11" height="11" rx="2" ry="2" fill="#61b0eb" data-date="2026-05-21" data-count="8"><title>8 contributions on May 21
+araceliponce: 0
+araceliponce-es: 8</title></rect>
+  <rect x="358" y="101" width="11" height="11" rx="2" ry="2" fill="#bbddf6" data-date="2026-05-22" data-count="5"><title>5 contributions on May 22
+araceliponce: 0
+araceliponce-es: 5</title></rect>
+  <rect x="358" y="114" width="11" height="11" rx="2" ry="2" fill="#bbddf6" data-date="2026-05-23" data-count="1"><title>1 contributions on May 23
+araceliponce: 0
+araceliponce-es: 1</title></rect>
+  <rect x="371" y="36" width="11" height="11" rx="2" ry="2" fill="#bbddf6" data-date="2026-05-24" data-count="2"><title>2 contributions on May 24
+araceliponce: 0
+araceliponce-es: 2</title></rect>
+  <rect x="371" y="49" width="11" height="11" rx="2" ry="2" fill="#ebedf0" data-date="2026-05-25" data-count="0"><title>0 contributions on May 25
+araceliponce: 0
+araceliponce-es: 0</title></rect>
+  <rect x="371" y="62" width="11" height="11" rx="2" ry="2" fill="#ebedf0" data-date="2026-05-26" data-count="0"><title>0 contributions on May 26
+araceliponce: 0
+araceliponce-es: 0</title></rect>
+  <rect x="371" y="75" width="11" height="11" rx="2" ry="2" fill="#d9f7ba" data-date="2026-05-27" data-count="3"><title>3 contributions on May 27
+araceliponce: 2
+araceliponce-es: 1</title></rect>
+  <rect x="371" y="88" width="11" height="11" rx="2" ry="2" fill="#bbddf6" data-date="2026-05-28" data-count="2"><title>2 contributions on May 28
+araceliponce: 0
+araceliponce-es: 2</title></rect>
+  <rect x="371" y="101" width="11" height="11" rx="2" ry="2" fill="#bbddf6" data-date="2026-05-29" data-count="1"><title>1 contributions on May 29
+araceliponce: 0
+araceliponce-es: 1</title></rect>
+  <rect x="371" y="114" width="11" height="11" rx="2" ry="2" fill="#bbddf6" data-date="2026-05-30" data-count="3"><title>3 contributions on May 30
+araceliponce: 0
+araceliponce-es: 3</title></rect>
+  <rect x="384" y="36" width="11" height="11" rx="2" ry="2" fill="#ebedf0" data-date="2026-05-31" data-count="0"><title>0 contributions on May 31
+araceliponce: 0
+araceliponce-es: 0</title></rect>
+  <rect x="384" y="49" width="11" height="11" rx="2" ry="2" fill="#bbddf6" data-date="2026-06-01" data-count="3"><title>3 contributions on Jun 1
+araceliponce: 0
+araceliponce-es: 3</title></rect>
+  <rect x="384" y="62" width="11" height="11" rx="2" ry="2" fill="#ebedf0" data-date="2026-06-02" data-count="0"><title>0 contributions on Jun 2
+araceliponce: 0
+araceliponce-es: 0</title></rect>
+  <rect x="384" y="75" width="11" height="11" rx="2" ry="2" fill="#d9f7ba" data-date="2026-06-03" data-count="3"><title>3 contributions on Jun 3
+araceliponce: 3
+araceliponce-es: 0</title></rect>
+  <text x="46" y="150" fill="#24292f" font-size="9" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">araceliponce</text>
+  <rect x="118" y="139" width="11" height="11" rx="2" ry="2" fill="#ebedf0"/>
+  <rect x="131" y="139" width="11" height="11" rx="2" ry="2" fill="#d9f7ba"/>
+  <rect x="144" y="139" width="11" height="11" rx="2" ry="2" fill="#a6ed5e"/>
+  <rect x="157" y="139" width="11" height="11" rx="2" ry="2" fill="#73ce17"/>
+  <rect x="170" y="139" width="11" height="11" rx="2" ry="2" fill="#4d8a0f"/>
+  <text x="195" y="150" fill="#24292f" font-size="9" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">araceliponce-es</text>
+  <rect x="283.5" y="139" width="11" height="11" rx="2" ry="2" fill="#ebedf0"/>
+  <rect x="296.5" y="139" width="11" height="11" rx="2" ry="2" fill="#bbddf6"/>
+  <rect x="309.5" y="139" width="11" height="11" rx="2" ry="2" fill="#61b0eb"/>
+  <rect x="322.5" y="139" width="11" height="11" rx="2" ry="2" fill="#1a80cc"/>
+  <rect x="335.5" y="139" width="11" height="11" rx="2" ry="2" fill="#115588"/>
+  
+  
+</svg>
